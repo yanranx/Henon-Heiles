@@ -13,4 +13,6 @@ outs_2_E_0.8333.mp4   --   (0, 0, 1/sqrt(3), 0)
 
 outs_3_E_0.8333.mp4   --   (0, 0, 0, 1/sqrt(3))   
 
+More are on the way.
+
 Codes will soon be updated.
